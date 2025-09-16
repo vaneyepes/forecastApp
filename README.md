@@ -1,3 +1,6 @@
+![App Screenshot](ScreenshotForec.png.png)
+
+
 # Weather Forecast App
 A simple weather application that fetches and displays current weather by city.
 
