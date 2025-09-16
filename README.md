@@ -1,4 +1,4 @@
-![App Screenshot](ScreenshotForec.png.png)
+![App Screenshot](screenshotForec.png.png)
 
 
 # Weather Forecast App
